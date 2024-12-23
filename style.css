@@ -1,0 +1,61 @@
+img{
+    display: block;
+    margin: 0 auto;
+    border: solid 3px;
+}
+body{
+
+    background-color:lightslategray;
+    margin: 50px;
+}
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+.tagline{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tagline2{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box0{
+background-color:lightblue;
+}
+.aboutme{
+    background-color: white;
+    padding: 30px;
+}
+.skills{
+    background-color: white;
+    padding: 30px;
+}
+footer{
+padding: 30px;
+}
+.connectwithme{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.projects{
+    background-color: white;
+    padding: 30px;
+}
+.contactme{
+    background-color: white;
+    padding: 30px;
+}
+
